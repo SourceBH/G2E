@@ -1,6 +1,6 @@
-#This is created by Oci Sova/Source
-#On Brick-Hill, and Source is just learning
-#Ruby, so please report any problems to Source.
+#This is created by Noice
+#On Brick-Hill, and Noice is just learning
+#Ruby, so please report any problems to Noice.
 #//Start Of Areas
 #//Area Zero
 puts("Welcome to G2E (GST TO Eastern Time)")
@@ -38,17 +38,7 @@ ThirdNumber = gets.chop.to_i
 sleep(2)
 #//Area Eleven
 print("Converting")
-sleep(1.5)
-print(".")
-sleep(1.5)
-print(".")
-sleep(1.5)
-print(".")
-sleep(1.5)
-print(".")
-sleep(1.5)
-puts(".")
-sleep(0.5)
+sleep(2)
 #//Area Twelve
 puts("The GST time has been converted to:")
 sleep(2.0)
