@@ -1,7 +1,7 @@
 1. Go download ruby at https://rubyinstaller.org/downloads/
 2. Open G2E
 
-CREDIT GOES TO OCI SOVA/SOURCE.
+CREDIT GOES TO NOICE
 This is pretty basic, I know, but I
 wanted to contribute to the community
 by doing something!
